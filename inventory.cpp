@@ -114,7 +114,7 @@ using namespace std;
 						{
 							cout << "\n\t\t\tProduct UPN: " << upn[k];
 							cout << "\n\t\t\tProduct ID:" << proname[k];
-							cout << "\n\t\t\tPrice: " << price[k];
+							cout << "\n\t\t\tPrice: " << price[k];//dfadfa
 						}
 					}
 				}
